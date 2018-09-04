@@ -1,0 +1,10 @@
+ 9 n ms ac  9 9 - mr -
+ 0 3 3 5 ms ac  4 9 3 - mr -
+ 4 s s ms ac  4 5 + mr +
+ 4 4 4 n ms ac  1 - 8 n - mr -
+ 5 + 6 + ms ac  4 6 * mr *
+ 2 8 * 8 - ms ac  8 2 9 - mr -
+ 2 - 2 2 s - ms ac  2 2 2 - 2 s - mr -
+ 5 5 6 + 6 s ms ac  6 * 6 s + mr +
+ 8 8 9 8 n ms ac  9 9 s + mr +
+ 5 + 8 5 5 + ms ac  5 5 + 8 5 + + mr +
