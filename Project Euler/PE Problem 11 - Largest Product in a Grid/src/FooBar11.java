@@ -4,8 +4,6 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.util.Scanner;
 
-import javax.swing.JOptionPane;
-
 public class FooBar11 {
 
 	private static int arr[][] = new int[20][20];

@@ -1,0 +1,15 @@
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 01 - Multiples of 3 and 5\src\FooBar01.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 02 - Even Fibonacci Numbers\src\FooBar02.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 03 - Largest Prime Factor\src\FooBar03.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 04 - Largest Palindrome Product\src\FooBar04.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 05 - Smallest Multiple\src\FooBar05.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 06 - Sum Square Difference\src\FooBar06.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 07 - 10001st Prime\src\FooBar07.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 08 - Largest Product in a Series\src\FooBar08.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 09 - Special Pythagorean Triplet\src\FooBar09.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 10 - Summation of Primes\src\FooBar10.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 11 - Largest Product in a Grid\src\FooBar11.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 12 - Highly Divisible Triangular Number\src\FooBar12.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 13 - Large Sum\src\Foobar13.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 14 - Longest Collatz Sequence\src\Foobar14.java
+C:\Users\Malcolm\Desktop\GitHub\Competitions\Project Euler\PE Problem 21 - Amicable Numbers\src\FooBar21.java
