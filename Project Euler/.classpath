@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="PE Problem 1 - Multiples of 3 and 5/src"/>
+	<classpathentry kind="src" path="PE Problem 10 - Summation of Primes/src"/>
+	<classpathentry kind="src" path="PE Problem 11 - Largest Product in a Grid/src"/>
+	<classpathentry kind="src" path="PE Problem 12 - Highly Divisible Triangular Number/src"/>
+	<classpathentry kind="src" path="PE Problem 13 - Large Sum/src"/>
+	<classpathentry kind="src" path="PE Problem 14 - Longest Collatz Sequence/src"/>
+	<classpathentry kind="src" path="PE Problem 2 - Even Fibonacci Numbers/src"/>
+	<classpathentry kind="src" path="PE Problem 21 - Amicable Numbers/src"/>
+	<classpathentry kind="src" path="PE Problem 3 - Largest Prime Factor/src"/>
+	<classpathentry kind="src" path="PE Problem 4 - Largest Palindrome Product/src"/>
+	<classpathentry kind="src" path="PE Problem 5 - Smallest Multiple/src"/>
+	<classpathentry kind="src" path="PE Problem 6 - Sum Square Difference/src"/>
+	<classpathentry kind="src" path="PE Problem 7 - 10001st Prime/src"/>
+	<classpathentry kind="src" path="PE Problem 8 - Largest Product in a Series/src"/>
+	<classpathentry kind="src" path="PE Problem 9 - Special Pythagorean Triplet/src"/>
+	<classpathentry kind="output" path="PE Problem 1 - Multiples of 3 and 5/bin"/>
+</classpath>
