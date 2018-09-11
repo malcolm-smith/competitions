@@ -1,0 +1,44 @@
+/***************************************************************************************************/
+1st trip
+
+4000$ cost of trip
+
+50% 1st year	$12 
+
+20% 2nd year	$10
+
+10% 3rd year	$7
+
+20% 4th year	$5
+
+400 students
+
+/***************************************************************************************************/
+
+int studentNum = 400
+int cost = 4000
+float n1 = 0.5
+float n2 = 0.2
+float n3 = 0.1
+float n4 = 0.2
+
+//number of students
+int s1 = studentNum * n1
+int s2 = studentNum * n2
+int s3 = studentNum * n3
+int s4 = studentNum * n4
+
+//cost 
+int totalCost = (s1 * 12) + (s2 * 10) + (s3 * 7) + (s4 * 5)
+
+//check if actual cost will be covered by projected cost
+if (totalCost <= cost) {
+	print "yes"
+} else {
+	print "no"
+}
+
+
+
+
+
