@@ -1,3 +1,4 @@
+
 import java.util.*;
 
 public class FooBar03 {
@@ -10,12 +11,12 @@ public class FooBar03 {
 	    }
 	    return true;
 	}
-	
+
 	public static void main(String [] args) {
 		long number = 600851475143L;
 		long stop = number / 2;
 		ArrayList<Long> list = new ArrayList<Long>();
-		
+
 		for (long i = 1; i <= stop; i += 2) {
 			if (number % i == 0) {
 				System.out.print(i + " ");

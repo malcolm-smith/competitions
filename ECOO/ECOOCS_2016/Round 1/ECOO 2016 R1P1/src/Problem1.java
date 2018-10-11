@@ -9,9 +9,9 @@ public class Problem1 {
 	private static final int NUM_OF_TEST_CASES = 10;
 
 	public static void main(String[] args) throws FileNotFoundException {
-		File data = new File("C:\\Users\\Malcolm\\Desktop\\Computer Science\\ECOO\\ECOOCS_2016\\Round 1\\DATA\\DATA11.txt");
+		File data = new File("../../DATA/DATA11.txt");
 		Scanner fileScanner = new Scanner(new BufferedReader(new FileReader(data)));
-		
+
 		for (int i = 0; i < NUM_OF_TEST_CASES; i++) {
 			run(fileScanner);
 		}
