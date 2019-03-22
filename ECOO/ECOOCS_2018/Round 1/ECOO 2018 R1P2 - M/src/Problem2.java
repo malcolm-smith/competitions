@@ -12,7 +12,7 @@ public class Problem2 {
 	private static int min = 90000;
 
 	public static void main (String [] args) throws FileNotFoundException{
-		File data = new File("C:\\Users\\Malcolm\\Desktop\\Computer Science\\ECOO\\ECOO2018\\Round 1\\DATA\\DATA22.txt");
+		File data = new File("../../DATA/DATA21.txt");
 		Scanner fileScanner = new Scanner (new BufferedReader(new FileReader(data)));
 		for (int i = 0; i < NUM_OF_TEST_CASES; i++) {
 			run(fileScanner);
