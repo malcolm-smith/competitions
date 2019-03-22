@@ -5,4 +5,4 @@ ECOO/.vscode/launch.json
 .gitignore
 *.class
 .class
-/bin/*
+*/bin/*
