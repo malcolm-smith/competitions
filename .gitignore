@@ -4,3 +4,5 @@ ECOO/ECOOCS_2017/Round 1/ECOO 2017 R1P2 - M/bin/Chocolate.class
 ECOO/.vscode/launch.json
 .gitignore
 *.class
+.class
+/bin/*
