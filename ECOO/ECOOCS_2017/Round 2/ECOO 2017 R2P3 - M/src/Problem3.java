@@ -33,25 +33,25 @@ public class Problem3 {
 			arr[i] = f.nextLong();
 		}
 		
-		System.out.println(Collections.max(arr) + "ee");
+		// System.out.println(Collections.max(arr) + "ee");
 		
-		for (long i = 0; i < k; i++) {
-			System.out.println(arr);
-			long x = Collections.max(arr);
-			for (long p = 0; p < arr.size(); p++) {
-				if (arr.get(p) == x) {
-					max = p;
-					break;
-				}
-			}
-			val = arr.get(max);
-			System.out.println(max + " max set to " + (val - m));
-			arr.set(max, val -= m);
-			if (arr.get(max) < 0) {
-				arr.set(max, 0);
-			}
-		}
-		System.out.println(max + 1);
-		arr.clear();
+		// for (long i = 0; i < k; i++) {
+		// 	System.out.println(arr);
+		// 	long x = Collections.max(arr);
+		// 	for (long p = 0; p < arr.size(); p++) {
+		// 		if (arr.get(p) == x) {
+		// 			max = p;
+		// 			break;
+		// 		}
+		// 	}
+		// 	val = arr.get(max);
+		// 	System.out.println(max + " max set to " + (val - m));
+		// 	arr.set(max, val -= m);
+		// 	if (arr.get(max) < 0) {
+		// 		arr.set(max, 0);
+		// 	}
+		// }
+		// System.out.println(max + 1);
+		// arr.clear();
 	}
 }
