@@ -30,9 +30,9 @@ public class Problem2 {
 		spinner = new int[spinnerCount];
 		for (int i = 0; i < spinnerCount; i++) {
 			int temp = sc.nextInt();
-			if (!(spinner.contains(temp))) {
-				
-			}
+			// if (!(spinner.contains(temp))) {
+			// 	System.out.println("");
+			// }
 		}
 		targets = new int[5];
 		for (int i = 0; i < 5; i++) {
