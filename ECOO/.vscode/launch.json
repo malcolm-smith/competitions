@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Problem2",
+            "request": "launch",
+            "mainClass": "Problem2",
+            "projectName": "ECOO 2017 R1P2 - M"
+        }
+    ]
+}
