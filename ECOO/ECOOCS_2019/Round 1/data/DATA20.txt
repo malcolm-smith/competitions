@@ -1,0 +1,10 @@
+3 5 AC
+A CAB
+B CB
+C ACB
+4 5 AD
+A AC
+B ACA
+C BD
+D B
+
