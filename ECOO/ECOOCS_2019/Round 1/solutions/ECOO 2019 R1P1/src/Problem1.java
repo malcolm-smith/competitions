@@ -17,6 +17,6 @@ public class Problem1 {
 	}
 
 	public void run(Scanner sc) {
-
+		
 	}
 }
