@@ -1,42 +1,22 @@
-import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.util.Scanner;
+
 
 public class Problem1 {
 
-	private static final int NUM_OF_TEST_CASES = 10;
+	private static final int NUM_OF_TEST_CASES = 10; //or whatever number of test cases are in the file
+	private static String filePath = "../../../data/DATA10.txt"; //write the file path here
 
 	public static void main(String[] args) throws FileNotFoundException {
-		//File data = new File("E:\\DATA11.txt"); //USB file-path
-		File data = new File("C:\\Users\\Malcolm\\Desktop\\ECOO2018\\Round 1\\DATA\\DATA11.txt"); //test case file-path
-		Scanner fileScanner = new Scanner(new BufferedReader(new FileReader(data)));
+		Scanner in = new Scanner(new File(filePath));
 		for (int i = 0; i < NUM_OF_TEST_CASES; i++) {
-			run(fileScanner);
-			
+			new Problem1().run(in);
 		}
-	} 
-	
-	public static void run(Scanner f) { //error occurs when scanner finds null at end of file
-		int days = f.nextInt();
-		int totalDays = f.nextInt();
-		String input ;
-		int x = 0;
-		
-		for (int i = 0; i < totalDays; i++) {
-			input = f.next();
-			if (input.equals("B")) {
-				x += days;
-				x--;
-			} else if (input.equals("E")) {
-				x--;
-				if (x < 0) {
-					x = 0;
-				}
-			}
-		}
+		in.close();
+	}
 
-		System.out.println(x);
+	public void run(Scanner sc) {
+		
 	}
 }

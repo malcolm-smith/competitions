@@ -2,10 +2,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-
 public class Problem4 {
 
-	private static final int NUM_OF_TEST_CASES = 10; //or whatever number of test cases are in the file
+	private static final int NUM_OF_TEST_CASES = 1; //or whatever number of test cases are in the file
 	private static String filePath = "../../../data/DATA40.txt"; //write the file path here
 
 	public static void main(String[] args) throws FileNotFoundException {
@@ -17,6 +16,6 @@ public class Problem4 {
 	}
 
 	public void run(Scanner sc) {
-
+		System.out.println("loser");
 	}
 }

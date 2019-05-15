@@ -1,0 +1,190 @@
+{
+	// Use IntelliSense to learn about possible attributes.
+	// Hover to view descriptions of existing attributes.
+	// For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+	
+		{
+			"type": "java",
+			"name": "Debug (Launch) - Current File",
+			"request": "launch",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Debug - ECOO",
+			"request": "launch",
+			"console": "integratedTerminal",
+			"mainClass": "${file}"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar01<PE Problem 01 - Multiples of 3 and 5>",
+			"request": "launch",
+			"mainClass": "FooBar01",
+			"projectName": "PE Problem 01 - Multiples of 3 and 5"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar02<PE Problem 02 - Even Fibonacci Numbers>",
+			"request": "launch",
+			"mainClass": "FooBar02",
+			"projectName": "PE Problem 02 - Even Fibonacci Numbers"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar03<PE Problem 03 - Largest Prime Factor>",
+			"request": "launch",
+			"mainClass": "FooBar03",
+			"projectName": "PE Problem 03 - Largest Prime Factor"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar04<PE Problem 04 - Largest Palindrome Product>",
+			"request": "launch",
+			"mainClass": "FooBar04",
+			"projectName": "PE Problem 04 - Largest Palindrome Product"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar05<PE Problem 05 - Smallest Multiple>",
+			"request": "launch",
+			"mainClass": "FooBar05",
+			"projectName": "PE Problem 05 - Smallest Multiple"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar06<PE Problem 06 - Sum Square Difference>",
+			"request": "launch",
+			"mainClass": "FooBar06",
+			"projectName": "PE Problem 06 - Sum Square Difference"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar07<PE Problem 07 - 10001st Prime>",
+			"request": "launch",
+			"mainClass": "FooBar07",
+			"projectName": "PE Problem 07 - 10001st Prime"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar08<PE Problem 08 - Largest Product in a Series>",
+			"request": "launch",
+			"mainClass": "FooBar08",
+			"projectName": "PE Problem 08 - Largest Product in a Series"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar09<PE Problem 09 - Special Pythagorean Triplet>",
+			"request": "launch",
+			"mainClass": "FooBar09",
+			"projectName": "PE Problem 09 - Special Pythagorean Triplet"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar10<PE Problem 10 - Summation of Primes>",
+			"request": "launch",
+			"mainClass": "FooBar10",
+			"projectName": "PE Problem 10 - Summation of Primes"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar11<PE Problem 11 - Largest Product in a Grid>",
+			"request": "launch",
+			"mainClass": "FooBar11",
+			"projectName": "PE Problem 11 - Largest Product in a Grid"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar12<PE Problem 12 - Highly Divisible Triangular Number>",
+			"request": "launch",
+			"mainClass": "FooBar12",
+			"projectName": "PE Problem 12 - Highly Divisible Triangular Number"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Foobar13<PE Problem 13 - Large Sum>",
+			"request": "launch",
+			"mainClass": "Foobar13",
+			"projectName": "PE Problem 13 - Large Sum"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Foobar14<PE Problem 14 - Longest Collatz Sequence>",
+			"request": "launch",
+			"mainClass": "Foobar14",
+			"projectName": "PE Problem 14 - Longest Collatz Sequence"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Foobar16<PE Problem 16 - Power digit sum>",
+			"request": "launch",
+			"mainClass": "Foobar16",
+			"projectName": "PE Problem 16 - Power digit sum"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Foobar20<PE Problem 20 - Factorial digit sum>",
+			"request": "launch",
+			"mainClass": "Foobar20",
+			"projectName": "PE Problem 20 - Factorial digit sum"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar21<PE Problem 21 - Amicable Numbers>",
+			"request": "launch",
+			"mainClass": "FooBar21",
+			"projectName": "PE Problem 21 - Amicable Numbers"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Foobar25<PE Problem 25 - 1000-digit Fibonacci number>",
+			"request": "launch",
+			"mainClass": "Foobar25",
+			"projectName": "PE Problem 25 - 1000-digit Fibonacci number"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar10<Project Euler>",
+			"request": "launch",
+			"mainClass": "FooBar10",
+			"projectName": "Project Euler"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar11<Project Euler>",
+			"request": "launch",
+			"mainClass": "FooBar11",
+			"projectName": "Project Euler"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar12<Project Euler>",
+			"request": "launch",
+			"mainClass": "FooBar12",
+			"projectName": "Project Euler"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-FooBar21<Project Euler>",
+			"request": "launch",
+			"mainClass": "FooBar21",
+			"projectName": "Project Euler"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Foobar13<Project Euler>",
+			"request": "launch",
+			"mainClass": "Foobar13",
+			"projectName": "Project Euler"
+		},
+		{
+			"type": "java",
+			"name": "Debug (Launch)-Foobar14<Project Euler>",
+			"request": "launch",
+			"mainClass": "Foobar14",
+			"projectName": "Project Euler"
+		}
+	]
+}
